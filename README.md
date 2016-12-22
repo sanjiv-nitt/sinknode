@@ -1,2 +1,2 @@
 # sinknode
-find sinknode of directed graph in o(n)
+find sink node of directed graph in o(n)
